@@ -1,0 +1,6 @@
+{
+  "name": "EduPay & Scholarship Desk",
+  "description": "Transparent university finance portal with semester tuition schedules, verified digital receipts, scholarship status tracking, admin fee reconciliation, and AI scholarship eligibility advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
